@@ -7,3 +7,11 @@ https://explainshell.com/explain?cmd=du%20-m%20--max-depth%3D1%20--exclude%20med
 
 Shell recorder
 https://asciinema.org/
+
+
+
+
+
+Kubernetes Stuff:
+
+https://kubernetic.com
